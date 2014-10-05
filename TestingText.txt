@@ -1,1 +1,2 @@
 Hi guys, did merging work well? Because merging can be confusing.
+Of course, adding files is also a pain.
